@@ -1,3 +1,7 @@
 # > YouTubeMusic
-USER-AGENT,com.google.ios.youtubemusic*
-USER-AGENT,YouTubeMusic*
+HOST,youtubei.googleapis.com,YouTubeMusic
+HOST,music.youtube.com,YouTubeMusic
+USER-AGENT,*YouTubeMusic*,YouTubeMusic
+USER-AGENT,*com.google.ios.youtubemusic*,YouTubeMusic
+USER-AGENT,YouTubeMusic*,YouTubeMusic
+USER-AGENT,com.google.ios.youtubemusic*,YouTubeMusic
